@@ -5,6 +5,7 @@ subject: 'cat:astro-ph.GA OR cat:astro-ph.IM'
 keywords:
     galaxy: 5
     galaxies: 5
+    galactic: 5
     star formation: 5
     star-formation: 5
     alma: 3
