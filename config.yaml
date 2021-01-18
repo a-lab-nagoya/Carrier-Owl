@@ -3,7 +3,11 @@ subject: 'cat:astro-ph.GA OR cat:astro-ph.IM'
 
 # 検索キーワード
 keywords:
-    alma: 5
+    galaxy: 5
+    galaxies: 5
+    star formation: 5
+    star-formation: 5
+    alma: 3
 
 # 通知の閾値
 score_threshold: 0
